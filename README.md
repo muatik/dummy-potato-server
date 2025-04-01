@@ -49,4 +49,4 @@ Expected output:
 HTTP 404 Not Found
 
 {"detail":"Potato not found"}
-```# dummy-potato-server
+```
